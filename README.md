@@ -2,7 +2,7 @@
  
 # Pollution Data Analysis & Modeling
 
-This repository contains an R-based data analysis pipeline for exploring and modeling pollution-related data using the `updated_pollution_dataset.csv` dataset. The project includes data preprocessing, exploratory data analysis (EDA), and several statistical modeling techniques.
+This repository contains an R-based data analysis pipeline for exploring and modeling pollution-related data. The project includes data preprocessing, exploratory data analysis (EDA), and several statistical modeling techniques.
 
 ---
 
@@ -16,7 +16,7 @@ To uncover the key factors influencing air pollution and develop predictive mode
 
 ###  Data Source
 
-- Source: Kaggle ([Link](https://www.kaggle.com/datasets/muhammadtalha07/air-quality-and-pollution-assessment))
+- Source: Kaggle ([Link](https://www.kaggle.com/datasets/mujtabamatin/air-quality-and-pollution-assessment))
 - Features: PM2.5, PM10, NO2, SO2, CO, temperature, humidity, population, proximity to industrial areas.
 - Target Variable: Air quality classified into 4 levels — **Good**, **Moderate**, **Poor**, and **Hazardous**.
 

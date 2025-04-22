@@ -69,7 +69,7 @@ install.packages(c(
 
 ---
 
-## ▶ How to Run
+##  How to Run
 
 1. Open the `notebook.ipynb` file in an R-compatible Jupyter environment.
 2. Run the cells step-by-step to perform the analysis.
